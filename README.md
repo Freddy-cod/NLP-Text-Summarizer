@@ -28,6 +28,6 @@ This project aims to leverage machine learning techniques to automatically gener
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/text-summarization-project.git
+   git clone https://github.com/Freddy-cod/NLP-Text-Summarizer.git
    ```
 
